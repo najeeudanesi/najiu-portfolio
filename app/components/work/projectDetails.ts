@@ -27,15 +27,15 @@ export type ProjectProps = {
 export const projects = [
     {
         id: 0,
-        name: "Portfolio 2023",
+        name: "Instagram Clone 2023",
         description:
-            "This is the fifth iteration of my portfolio.",
+            "This is my imitation on instagram.",
         technologies: [SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiFramer],
         techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"],
         techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
-        github: "https://github.com/nuIIpointerexception/www.seekvisualartist.com",
-        demo: "https://www.seekvisualartist.com/",
-        image: "/projects/portfolio.webp",
+        github: "https://github.com/najeeudanesi/my_instagram_app",
+        demo: "https://najiu-instagram.netlify.app/",
+        image: "/projects/instagram.jpeg",
         available: true,
     },
     {

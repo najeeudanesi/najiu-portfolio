@@ -24,7 +24,7 @@ const Contact = () => {
                     <AnimatedWords
                         title={"contact"}
                         style={
-                            "flex max-w-[400px] flex-col items-start text-left text-[100px] font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[150px] md:text-[150px] lg:text-center lg:text-[120px] xl:text-[450px]"
+                            "flex max-w-[300px] flex-col items-start text-left text-[100px] font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[100px] md:text-[100px] lg:text-center lg:text-[120px] xl:text-[300px] pb-7"
                         }
                     />
                 </div>
@@ -51,7 +51,7 @@ const Contact = () => {
 
                     <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
                         <Link
-                            href="https://github.com/nuIIpointerexception"
+                            href="https://github.com/najeeudanesi"
                             target="_blank"
                             aria-label="View GitHub Profile"
                         >
@@ -67,10 +67,10 @@ const Contact = () => {
                         <Link
                             href="https://www.youtube.com/c/seekvisualartist/"
                             target="_blank"
-                            aria-label="View Youtube Channel"
+                            aria-label="LinkedIn Profile"
                         >
                             <AnimatedTitle
-                                text={"YOUTUBE"}
+                                text={"LinkedIn"}
                                 className={
                                     "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                                 }

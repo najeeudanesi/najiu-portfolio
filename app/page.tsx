@@ -74,7 +74,7 @@ export default function Home() {
                 <Tools />
                 { /* <Blog /> TODO: Low Priority */ }
                 <Contact />
-                <Footer />
+                {/* <Footer /> */}
             </main>
             {/*</ScrollerMotion>*/}
         </>
